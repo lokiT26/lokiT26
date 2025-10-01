@@ -1,8 +1,9 @@
-## Hi there 👋
+## Hello there 👋
 
+- 🌱 I’m currently learning [**_Database Internals_**](https://github.com/lokiT26/java-sql-engine), and **_Machine Learning_**.
+- 💬 Ask me about **_Relational Databases_**.
+- 📫 How to reach me: _lokeshthakare2004@gmail.com_
 <!--
-**lokiT26/lokiT26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
